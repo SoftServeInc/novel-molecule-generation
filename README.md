@@ -30,6 +30,9 @@ All models were trained on publicly available data only: autoencoders on data fr
 
 ## Authors
 Maksym Druchok mdruc@softserveinc.com
+
 Dzvenymyra Yarish dyari@softserveinc.com
+
 Oleksandr Gurbych ogurb@softserveinc.com
+
 Mykola Maksymenko mmaks@softserveinc.com
