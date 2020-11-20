@@ -21,7 +21,7 @@ To train models
 
 ## Data
 
-Data used to train models is included in */data* folder.
+Data used to train models will be included in */data* folder.
 
 ## Authors
 
