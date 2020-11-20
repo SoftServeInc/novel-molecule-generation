@@ -1,0 +1,22 @@
+# hyperparams for training classifier on embeddings from AE latent space
+
+path_to_embd_dataset_train: 'data/ames/ames_embds_train.csv'
+path_to_embd_dataset_test: 'data/ames/ames_embds_test.csv'
+path_to_labels_train: 'data/ames/ames_train_raw.csv'
+path_to_labels_test: 'data/ames/ames_test_raw.csv'
+
+labels_one_hot: True
+
+model: 'c2f'
+mode: 'predictor'
+path_to_save_model: 'c2f/c2f_ames.pth'
+save_model_every: 50
+
+
+batch_size: 64
+l_r: 0.001
+decay_lr_every: 100
+gamma: 0.1
+num_epochs: 40
+
+

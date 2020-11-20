@@ -1,0 +1,5 @@
+.idea
+.ipynb_checkpoints
+novel_molecules_generation/data/
+novel_molecules_generation/ae/ae.pth
+novel_molecules_generation/.ipynb_checkpoints

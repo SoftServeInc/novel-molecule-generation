@@ -1,0 +1,5 @@
+torch==1.2.0
+imbalanced-learn==0.5.0
+imblearn==0.0
+yaml==3.12
+rdkit==2018.03.4.0

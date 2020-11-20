@@ -1,0 +1,26 @@
+# hyperparams for training Autoencoder generative model
+
+path_to_datafile_train: 'data/SMILES/smiles.raw.train'
+path_to_datafile_test: 'data/SMILES/smiles.raw.test'
+path_to_smiles_dict: 'data/SMILES/Dictionary'
+mode: 'ae'
+rn_in_input: False
+smiles_one_hot: True
+
+model: 'ae'
+max_smiles_len: 60
+smiles_dict_size: 58
+
+path_to_save_model: 'ae/ae.pth'
+save_model_every: 10
+
+
+batch_size: 64
+l_r: 0.001
+decay_lr_every: 40
+gamma: 0.1
+num_epochs: 50
+
+
+
+

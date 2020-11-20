@@ -1,0 +1,22 @@
+# hyperparams for training regressor model on  embeddings from AE latent space
+path_to_embd_dataset_train: 'data/esol/esol_embds_train.csv'
+path_to_embd_dataset_test: 'data/esol/esol_embds_test.csv'
+path_to_labels_train: 'data/esol/esol_train_raw.csv'
+path_to_labels_test: 'data/esol/esol_test_raw.csv'
+
+labels_one_hot: False
+
+model: 'e2f'
+mode: 'predictor'
+path_to_save_model: 'e2f/e2f_sol.pth'
+save_model_every: 5
+
+
+batch_size: 64
+l_r: 0.001
+decay_lr_every: 10
+gamma: 0.1
+num_epochs: 10
+
+
+
