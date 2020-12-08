@@ -32,6 +32,14 @@ To analyze the novel structures
 
 All models were trained on publicly available data only: autoencoders on data from eMolecules database https://www.emolecules.com/info/plus/download-database, solubility dataset was compiled from sets provided by Huuskonen, Hou et al., Delaney, and Mitchell (see the paper for more details). 
 
+## Contributing
+
+- Fork it
+- Create your feature branch (git checkout -b my-new-feature)
+- Commit your changes (git commit -am 'Added some feature')
+- Push to the branch (git push origin my-new-feature)
+- Create new Pull Request to us
+
 ## Authors
 
 - Maksym Druchok mdruc@softserveinc.com
