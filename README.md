@@ -1,7 +1,6 @@
 # Novel drug-like molecules generation
 
-This repository implements the proposed pipelines and models in the paper [Towards Efficient Generation, Correction and Properties Control of Unique Drug-Like Structures](https://onlinelibrary.wiley.com/do
-i/10.1002/jcc.26494). It also contains scripts to reproduce the results of the models reported in the paper.
+This repository implements the proposed pipelines and models in the paper [Towards Efficient Generation, Correction and Properties Control of Unique Drug-Like Structures](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26494). It also contains scripts to reproduce the results of the models reported in the paper.
 
 ## About
 
