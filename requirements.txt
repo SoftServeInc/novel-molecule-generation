@@ -1,4 +1,4 @@
-torch==1.2.0
+torch==2.2.0
 imbalanced-learn==0.5.0
 imblearn==0.0
 yaml==3.12
